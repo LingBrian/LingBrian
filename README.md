@@ -1,6 +1,5 @@
-# :eyes:Visitors:
+# :eyes:Visitors: ![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
 
-![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
 
 # Hello, folks! <img src="https://github.com/LingBrian/LingBrian/blob/main/wave.gif?raw=true" width="30px" height="30px" />
 
