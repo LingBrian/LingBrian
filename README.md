@@ -40,7 +40,14 @@ You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LingBrian&repo=LingBlog" />
 </a>
 
-[![Blog](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.17lai.site)[![RSS](https://img.shields.io/badge/RSS-orange.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://cfblog.17lai.site/atom.xml)[![Github](https://img.shields.io/badge/-Github-%23EEEEEE?logo=Github&style=for-the-badge&logoColor=black)](https://github.com/appotry)[![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=Docker&style=for-the-badge&logoColor=black)](https://hub.docker.com/u/bloodstar)![Linux](https://img.shields.io/badge/-Linux-%257A143?logo=Linux&style=for-the-badge&logoColor=black)![Shell](https://img.shields.io/badge/-Shell-%233776AB?logo=Windows%20Terminal&style=for-the-badge&logoColor=white)![C/C++](https://img.shields.io/badge/-C/C++-%23EEEEEE?logo=C&style=for-the-badge&logoColor=black)![Kernel](https://img.shields.io/badge/-Kernel-%234FC08D?logo=linux&style=for-the-badge&logoColor=white)![AIOT](https://img.shields.io/badge/-AIOT-yellowgreen?logo=IOTA&style=for-the-badge&logoColor=black)
+
+## <a title="My Blog Site" target="_blank" href="https://lingbrian.github.io/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-lingbrian.github.io-orange" /></a> 最近博文:  -- 自动获取于 2024-05-21 21:27:01
+* 2024-04-23 - [如何用洋垃圾组装一台家用电脑](http://lingbrian.github.io/2024/04/23/assemble_computer_with_cheap_things/            )
+* 2024-04-23 - [将Hexo部署到github pages上](http://lingbrian.github.io/2024/04/23/delpoy_hexo_on_gitthub_pages/            )
+* 2024-04-23 - [宿舍开服之Minecraft](http://lingbrian.github.io/2024/04/23/deploy_mc_server_in_your_room/            )
+* 2024-04-23 - [在旧电脑上安装PVE](http://lingbrian.github.io/2024/04/23/pve_on_pc/            )
+* 2024-04-23 - [宿舍开服之Steam、 CS2、泰拉瑞亚](http://lingbrian.github.io/2024/04/23/deploy_steamcmd_in_your_room/            )
+* [更多文章...](https://lingbrian.github.io/) 
 
 # :eyes:Visitors: ![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
 
