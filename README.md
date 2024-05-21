@@ -42,6 +42,12 @@ You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
 
 # :eyes:Visitors: ![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!-- Icons -->
 
 [1.2]: https://img2.imgtp.com/2024/05/21/SYoOevOO.png
