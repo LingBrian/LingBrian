@@ -11,10 +11,19 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
+## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingBrian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/LingBrian/LingBrian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingBrian&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/LingBrian/LingBrian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LingBrian&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LingBrian&repo=LingBlog)
+<a href="https://github.com/LingBrian/LingBlog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LingBrian&repo=LingBlog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <!-- Actual text -->
 
 You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
