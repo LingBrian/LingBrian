@@ -1,4 +1,4 @@
-# :eyes:Visitors: ![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
+
 
 
 # Hello, folks! <img src="https://github.com/LingBrian/LingBrian/blob/main/wave.gif?raw=true" width="30px" height="30px" />
@@ -36,7 +36,7 @@ You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LingBrian&repo=LingBlog" />
 </a>
 
-
+# :eyes:Visitors: ![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
 
 <!-- Icons -->
 
