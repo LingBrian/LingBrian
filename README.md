@@ -40,6 +40,11 @@ You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LingBrian&repo=LingBlog" />
 </a>
 
+# :tv: Blog
+
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+
 # :eyes:Visitors: ![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
 
 <picture>
