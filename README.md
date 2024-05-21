@@ -28,6 +28,12 @@ My name is Brian Ling and I am a student from China , who is learning Virtualiza
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LingBrian&repo=LingBlog" />
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!-- Icons -->
 
 [1.2]: https://img2.imgtp.com/2024/05/21/SYoOevOO.png
