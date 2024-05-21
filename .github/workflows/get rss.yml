@@ -30,7 +30,7 @@ jobs:
         python-version: '3.10'
         architecture: 'x64'
 
-   -  name: Generate README.md for github.com
+    - name: Generate README.md for github.com
       env:
         GH_REPO: github.com/LingBrian/LingBrian.git
       run: |
