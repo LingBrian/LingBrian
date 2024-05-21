@@ -3,7 +3,7 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LingBrian&repo=LingBlog)
 <!-- Actual text -->
 
-You can find me on [![WeChat[1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![WeChat][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
