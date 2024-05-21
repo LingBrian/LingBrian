@@ -47,7 +47,6 @@ You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
 
 # :eyes:Visitors: ![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
 
-[![Harlok's WakaTime stats](https://ghstats.17lai.site/wakatime?username=LingBrian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
