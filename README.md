@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/LingBrian/LingBrian/master/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://github.com/LingBrian/LingBrian/blob/main/wave.gif?raw=true" width="30px" height="30px" />
 My name is Brian Ling and I am a student from China , who is learning Virtualization , Web development ,Embedded development and Information Security .You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
 
 ## 🔧 Technologies & Tools
