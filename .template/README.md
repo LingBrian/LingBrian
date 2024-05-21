@@ -41,6 +41,9 @@ You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
 </a>
 
 
+## <a title="My Blog Site" target="_blank" href="https://lingbrian.github.io/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-lingbrian.github.io-orange" /></a> 最近博文:  -- 自动获取于 {{Generated At}}
+{{Recent Posts}}
+* [更多文章...](https://lingbrian.github.io/) 
 
 # :eyes:Visitors: ![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
 
