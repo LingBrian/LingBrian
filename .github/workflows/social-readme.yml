@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://lingblog.github.io/atom.xml
+          blog_rss_link: https://fetchrss.com/rss/664c8d4ac3c4b54dae59bd14664c8d3966c5da18d91e3552.xml 
