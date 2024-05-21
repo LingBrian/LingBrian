@@ -7,7 +7,7 @@ You can find me on [![WeChat][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://cdn.icon-icons.com/icons2/2648/PNG/512/weixin_icon_160690.png
+[1.2]: https://img2.imgtp.com/2024/05/21/SYoOevOO.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
