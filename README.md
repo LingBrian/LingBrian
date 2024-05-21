@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingBrian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingBrian&include_all_commits=true&repo=LingBlog&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats)
 <!--
 **LingBrian/LingBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
