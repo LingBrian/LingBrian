@@ -1,3 +1,6 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/LingBrian/LingBrian/master/wave.gif" width="30px" height="30px" />
+My name is Brian Ling and I am a student from China , who is learning Virtualization , Web development ,Embedded development and Information Security .You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows11-informational?style=flat&logo=windows11&logoColor=white&color=2bbc8a)
@@ -23,10 +26,6 @@
 <a href="https://github.com/LingBrian/LingBlog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LingBrian&repo=LingBlog" />
 </a>
-
-<!-- Actual text -->
-
-You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
 
 <!-- Icons -->
 
