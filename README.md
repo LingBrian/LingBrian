@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
+
 # Hello, folks! <img src="https://github.com/LingBrian/LingBrian/blob/main/wave.gif?raw=true" width="30px" height="30px" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Brian+Ling+.;+I+am+a+student+from+China.+;I+am+learning+Virtualization+%2C+;Web+development+%2C;+Embedded+development;and+Information+Security+.)](https://git.io/typing-svg)
