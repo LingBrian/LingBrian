@@ -41,7 +41,7 @@ You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
 </a>
 
 
-## <a title="My Blog Site" target="_blank" href="https://lingbrian.github.io/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-lingbrian.github.io-orange" /></a> 最近博文:  -- 自动获取于 2024-08-04 01:15:47
+## <a title="My Blog Site" target="_blank" href="https://lingbrian.github.io/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-lingbrian.github.io-orange" /></a> 最近博文:  -- 自动获取于 2024-08-05 01:15:22
 * 2024-04-23 - [如何用洋垃圾组装一台家用电脑](http://lingbrian.github.io/2024/04/23/assemble_computer_with_cheap_things/            )
 * 2024-04-23 - [将Hexo部署到github pages上](http://lingbrian.github.io/2024/04/23/delpoy_hexo_on_gitthub_pages/            )
 * 2024-04-23 - [宿舍开服之Minecraft](http://lingbrian.github.io/2024/04/23/deploy_mc_server_in_your_room/            )
