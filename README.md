@@ -33,6 +33,7 @@ You can find me on [WeChat][1], or on [ZhiHu][2].
 最近博文:
 
 <!-- BLOG-POST-LIST:START -->
+- [在个人笔记本上运行 Qwen 大语言模型](https://lingbrian.github.io/2026/07/20/deploy-qwen-LLM-ON-PC/)
 <!-- BLOG-POST-LIST:END -->
 
   
