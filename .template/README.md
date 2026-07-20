@@ -11,7 +11,7 @@
 
 <a title="github" target="_blank" href="https://github.com/LingBrian"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DLingBrian&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
 
-You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
+You can find me on [WeChat][1], or on [ZhiHu][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -27,25 +27,15 @@ You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/LingBrian/LingBrian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingBrian&hide=java,html,tex&langs_count=3" />
-</a>
-<a href="https://github.com/LingBrian/LingBrian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LingBrian&show_icons=true&line_height=27&count_private=true" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/LingBrian/LingBlog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LingBrian&repo=LingBlog" />
-</a>
 
 
-## <a title="My Blog Site" target="_blank" href="https://lingbrian.github.io/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-lingbrian.github.io-orange" /></a> 最近博文:  -- 自动获取于 {{Generated At}}
+## <a title="My Blog Site" target="_blank" href="https://lingbrian.github.io/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-lingbrian.github.io-orange" /></a> 
+最近博文:  -- 自动获取于 {{Generated At}}
 {{Recent Posts}}
-* [更多文章...](https://lingbrian.github.io/) 
+  
+>[更多文章...](https://lingbrian.github.io/) 
 
-# :eyes:Visitors: ![Visitor Count](https://profile-counter.glitch.me/LingBrian/count.svg)
+# 🧑‍💻  ![Visitor Count](https://komarev.com/ghpvc/?username=LingBrian)
 
 
 
@@ -55,10 +45,7 @@ You can find me on [![WeChat][1.2]][1], or on [![ZhiHu][2.2]][2].
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<!-- Icons -->
 
-[1.2]: https://img2.imgtp.com/2024/05/21/SYoOevOO.png
-[2.2]: https://img2.imgtp.com/2024/05/21/FEwhkUQa.png
 
 <!-- Links to your social media accounts -->
 

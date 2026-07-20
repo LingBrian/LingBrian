@@ -92,7 +92,7 @@ def loadPostsByRSS():
         return []
 
 # 常量定义
-POSTS_RSS_URL = 'https://lingbrian.github.io/rss.xml'
+POSTS_RSS_URL = 'https://lingbrian.github.io/atom.xml'
 
 # 使用 cloudflare 时，需要使用cloudscraper 来代替 requests
 # POSTS_RSS_URL = 'https://blog.17lai.site/rss.xml'
