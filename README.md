@@ -30,7 +30,10 @@ You can find me on [WeChat][1], or on [ZhiHu][2].
 
 
 ## <a title="My Blog Site" target="_blank" href="https://lingbrian.github.io/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-lingbrian.github.io-orange" /></a> 
-最近博文:  -- 自动获取于 2026-07-20 12:49:23
+最近博文:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
   
 >[更多文章...](https://lingbrian.github.io/) 

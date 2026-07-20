@@ -1,0 +1,21 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时自动运行一次
+  workflow_dispatch:     # 也支持手动触发
+
+permissions:
+  contents: write        # 需要有写入权限才能更新 README [citation:8]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Fetch and Update Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://lingbrian.github.io/atom.xml" # 替换成你的 RSS 地址！
+          max_post_count: 5        
