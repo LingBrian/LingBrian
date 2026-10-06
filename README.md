@@ -33,6 +33,7 @@ You can find me on [WeChat][1], or on [ZhiHu][2].
 最近博文:
 
 <!-- BLOG-POST-LIST:START -->
+- [VirtualBox网络模式详解](https://lingbrian.github.io/2026/10/06/virtualbox_networl_model/)
 - [Linux初入门扉 （ 三 ）](https://lingbrian.github.io/2026/08/11/learn-linux2/)
 - [Linux初入门扉 （ 二 ）](https://lingbrian.github.io/2026/08/10/learn-linux1/)
 - [Linux初入门扉 （ 一 ）](https://lingbrian.github.io/2026/08/09/learn-linux/)
